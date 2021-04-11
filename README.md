@@ -1,7 +1,6 @@
 # FuzionCfgs
 
-Here are my [Fuzion](https://github.com/LWSS/Fuzion) Configs. I will update them later by adding nade configs.
-
+Here are my [Fuzion](https://github.com/LWSS/Fuzion) Configs. [Nades](https://github.com/Wristing/FuzionNadeCfgs/)
 # Installation
 1. Click `Clone or Download`, `Download ZIP`
 2. Open ZIP
